@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 613bc8d5-e6e8-4187-b511-6a9c1161a9a9)
+
+  (paper "A4")
+
+  (title_block
+    (date "2022-10-20")
+    (rev "1.0.0")
+    (company "Manul Technologies")
+  )
+
+  (lib_symbols
+  )
+
+)

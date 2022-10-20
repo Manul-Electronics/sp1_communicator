@@ -1,0 +1,85 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid d9bd008b-84e8-4d0b-9177-df1b9a254894)
+
+  (paper "A4")
+
+  (title_block
+    (title "Standalone P1 Protocol Reader")
+    (date "2022-10-20")
+    (rev "1.0.0")
+    (company "Manul Technologies")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 124.46 45.72) (size 21.59 26.67) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 09d88c85-f555-474c-9d74-2222a962560f)
+    (property "Sheet name" "CPU" (id 0) (at 124.46 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "cpu.kicad_sch" (id 1) (at 124.46 72.9746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 162.56 81.28) (size 21.59 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1a25c7cc-42d7-46c2-b12d-34ac8b0e855a)
+    (property "Sheet name" "Power Supply" (id 0) (at 162.56 80.5684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "psu.kicad_sch" (id 1) (at 162.56 103.4546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 86.36 45.72) (size 22.86 27.94) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7d5948d1-8ff5-41bc-bc50-eec041142a58)
+    (property "Sheet name" "Interface" (id 0) (at 86.36 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "interface.kicad_sch" (id 1) (at 86.36 74.2446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 86.36 82.55) (size 12.7 16.51) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid f3cb2ff7-19d1-4894-834e-ceb1f696009b)
+    (property "Sheet name" "Programming Interface" (id 0) (at 86.36 81.8384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "prog.kicad_sch" (id 1) (at 86.36 99.6446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/09d88c85-f555-474c-9d74-2222a962560f" (page "2"))
+    (path "/7d5948d1-8ff5-41bc-bc50-eec041142a58" (page "3"))
+    (path "/1a25c7cc-42d7-46c2-b12d-34ac8b0e855a" (page "4"))
+    (path "/f3cb2ff7-19d1-4894-834e-ceb1f696009b" (page "5"))
+  )
+
+  (symbol_instances
+    (path "/7d5948d1-8ff5-41bc-bc50-eec041142a58/1cd3f03c-67e0-4ed1-8032-ccc9eac5065e"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/7d5948d1-8ff5-41bc-bc50-eec041142a58/9f724fce-ef64-47d0-a16a-353718e79e18"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7d5948d1-8ff5-41bc-bc50-eec041142a58/3deb6feb-41a4-4570-81d0-cd4de5221f52"
+      (reference "J?") (unit 1) (value "CRJ030-G-TH") (footprint "CUI_CRJ030-G-TH")
+    )
+  )
+)
