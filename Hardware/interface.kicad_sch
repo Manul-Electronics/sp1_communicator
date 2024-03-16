@@ -709,7 +709,7 @@
     (property "Value" "140357145100" (at 102.1715 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 106.68 45.72 0)
+    (property "Footprint" "Package_SO:SOP-4_3.8x4.1mm_P2.54mm" (at 106.68 45.72 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "" (at 102.235 40.64 0)
@@ -749,6 +749,34 @@
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
           (reference "R2") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "manul_tech:140357145100") (at 102.235 69.85 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 778c75ac-c866-42f2-908a-6ec29f7ed699)
+    (property "Reference" "U2" (at 101.6635 62.23 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "140357145100" (at 101.6635 64.77 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Package_SO:SOP-4_3.8x4.1mm_P2.54mm" (at 97.155 74.93 0)
+      (effects (font (size 1.27 1.27) italic) (justify left) hide)
+    )
+    (property "Datasheet" "" (at 101.6 69.85 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (pin "1" (uuid f3175804-1c69-419f-9733-ffbb6b049a59))
+    (pin "2" (uuid 9447ad04-9d53-4bc4-9159-24e63b6c7983))
+    (pin "3" (uuid c2df9390-90cc-4b2d-829a-7ad1e0c84644))
+    (pin "4" (uuid eb8b9712-16ca-4579-9951-dbd30085787a))
+    (instances
+      (project "sp1_communicator"
+        (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -976,34 +1004,6 @@
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
           (reference "#PWR07") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "manul_tech:140357145100") (at 102.235 69.85 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid db82920d-25ea-4525-9e79-055e0a5142f6)
-    (property "Reference" "U2" (at 101.6635 62.23 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "140357145100" (at 101.6635 64.77 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 97.155 74.93 0)
-      (effects (font (size 1.27 1.27) italic) (justify left) hide)
-    )
-    (property "Datasheet" "" (at 101.6 69.85 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (pin "1" (uuid d588c771-caf7-4f0e-8f32-90800a3cdd74))
-    (pin "2" (uuid 9737be08-008b-4a9f-89d1-9fa31655d96d))
-    (pin "3" (uuid 3d7505a3-b090-457c-af14-b8d385b1ab1c))
-    (pin "4" (uuid 61686b0c-d519-428f-9c73-19ce50756439))
-    (instances
-      (project "sp1_communicator"
-        (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
-          (reference "U2") (unit 1)
         )
       )
     )
