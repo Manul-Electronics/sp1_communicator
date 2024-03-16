@@ -608,8 +608,8 @@
     (property "Datasheet" "~" (at 114.3 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid ff7d8322-c8cb-432d-8e56-6f06098b7d87))
     (pin "1" (uuid 10c1a225-db5c-46c6-9a3e-75643f69c2e5))
+    (pin "2" (uuid ff7d8322-c8cb-432d-8e56-6f06098b7d87))
     (instances
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
@@ -634,12 +634,12 @@
     (property "Datasheet" "~" (at 62.23 45.085 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "5" (uuid 633075e3-ab83-45aa-b7f1-1075e30e6c17))
-    (pin "4" (uuid 3c4700e5-1298-4332-ba3b-d723d40639e3))
-    (pin "6" (uuid 748af86c-97f3-497c-9961-65ccf51276e9))
-    (pin "3" (uuid 97516833-57ea-4bc5-9e31-ee85611dd2e3))
-    (pin "2" (uuid 69d26f83-d76d-4334-9dba-9df8f47ee681))
     (pin "1" (uuid 83971050-6081-4466-b43f-0d29354a800b))
+    (pin "2" (uuid 69d26f83-d76d-4334-9dba-9df8f47ee681))
+    (pin "3" (uuid 97516833-57ea-4bc5-9e31-ee85611dd2e3))
+    (pin "4" (uuid 3c4700e5-1298-4332-ba3b-d723d40639e3))
+    (pin "5" (uuid 633075e3-ab83-45aa-b7f1-1075e30e6c17))
+    (pin "6" (uuid 748af86c-97f3-497c-9961-65ccf51276e9))
     (instances
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
@@ -664,8 +664,8 @@
     (property "Datasheet" "~" (at 93.345 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid ee89ddcb-83b0-4e62-b00d-a12345f085b3))
     (pin "1" (uuid 24861b9f-ad71-4d09-9f19-c86653ce7ce1))
+    (pin "2" (uuid ee89ddcb-83b0-4e62-b00d-a12345f085b3))
     (instances
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
@@ -715,10 +715,10 @@
     (property "Datasheet" "" (at 102.235 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "4" (uuid 3ad2ec18-e443-4dd5-9ed8-a16ce9e74de6))
-    (pin "3" (uuid 486e5c79-0131-41c3-a0e2-116746a90abf))
-    (pin "2" (uuid b1cd968c-57dd-43e1-a7a5-3ce524149c05))
     (pin "1" (uuid 5c98ead4-12de-4015-8ebc-b803c24019a5))
+    (pin "2" (uuid b1cd968c-57dd-43e1-a7a5-3ce524149c05))
+    (pin "3" (uuid 486e5c79-0131-41c3-a0e2-116746a90abf))
+    (pin "4" (uuid 3ad2ec18-e443-4dd5-9ed8-a16ce9e74de6))
     (instances
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
@@ -743,8 +743,8 @@
     (property "Datasheet" "~" (at 93.345 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 16a4e16e-774b-4d08-a8cc-b2e5916b92e6))
     (pin "1" (uuid 0efcc360-e9f7-4fb6-b8c5-7d9394cb74c7))
+    (pin "2" (uuid 16a4e16e-774b-4d08-a8cc-b2e5916b92e6))
     (instances
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
@@ -794,8 +794,8 @@
     (property "Datasheet" "~" (at 113.03 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid a3902142-192d-496d-b405-4f55fffa3b7e))
     (pin "1" (uuid 4737eda3-60db-4bdf-9cf7-d8da2d647693))
+    (pin "2" (uuid a3902142-192d-496d-b405-4f55fffa3b7e))
     (instances
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
@@ -920,8 +920,8 @@
     (property "Datasheet" "~" (at 93.345 36.195 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid a8fc8fdb-e1dd-4d35-b966-0e9fff7a6faf))
     (pin "1" (uuid b4b7db8c-0b23-475e-bc5e-f08d762de21d))
+    (pin "2" (uuid a8fc8fdb-e1dd-4d35-b966-0e9fff7a6faf))
     (instances
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
@@ -996,10 +996,10 @@
     (property "Datasheet" "" (at 101.6 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "4" (uuid 61686b0c-d519-428f-9c73-19ce50756439))
-    (pin "3" (uuid 3d7505a3-b090-457c-af14-b8d385b1ab1c))
-    (pin "2" (uuid 9737be08-008b-4a9f-89d1-9fa31655d96d))
     (pin "1" (uuid d588c771-caf7-4f0e-8f32-90800a3cdd74))
+    (pin "2" (uuid 9737be08-008b-4a9f-89d1-9fa31655d96d))
+    (pin "3" (uuid 3d7505a3-b090-457c-af14-b8d385b1ab1c))
+    (pin "4" (uuid 61686b0c-d519-428f-9c73-19ce50756439))
     (instances
       (project "sp1_communicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894/7d5948d1-8ff5-41bc-bc50-eec041142a58"
