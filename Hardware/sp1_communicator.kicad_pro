@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.13999999999999999
         }
       },
       "diff_pair_dimensions": [
@@ -492,7 +492,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Output Files/1.0.0/sp1_communicator.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -530,8 +530,8 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
-    "plot_directory": "",
+    "page_layout_descr_file": "D:\\Manul\\MT_Lib2\\Cartouches\\manul_cartouche.kicad_wks",
+    "plot_directory": "Output Files/${REVISION}/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -545,18 +545,6 @@
     [
       "d9bd008b-84e8-4d0b-9177-df1b9a254894",
       ""
-    ],
-    [
-      "09d88c85-f555-474c-9d74-2222a962560f",
-      "CPU"
-    ],
-    [
-      "7d5948d1-8ff5-41bc-bc50-eec041142a58",
-      "Interface"
-    ],
-    [
-      "1a25c7cc-42d7-46c2-b12d-34ac8b0e855a",
-      "Power Supply"
     ]
   ],
   "text_variables": {}
