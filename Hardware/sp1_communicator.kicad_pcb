@@ -5,6 +5,12 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "P1 Wireless Interface")
+    (date "2024-03-20")
+    (rev "1.0")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (1 "In1.Cu" signal)
