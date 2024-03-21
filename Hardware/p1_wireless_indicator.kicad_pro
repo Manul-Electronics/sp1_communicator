@@ -407,7 +407,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -426,7 +426,7 @@
     ]
   },
   "meta": {
-    "filename": "sp1_communicator.kicad_pro",
+    "filename": "p1_wireless_interface.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -492,7 +492,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Output Files/1.0.0/sp1_communicator.step",
+      "step": "Output Files/1.0.0/p1_wireless_interface.step",
       "vrml": ""
     },
     "page_layout_descr_file": "D:/Manul/MT_Lib2/Cartouches/manul_cartouche.kicad_wks"

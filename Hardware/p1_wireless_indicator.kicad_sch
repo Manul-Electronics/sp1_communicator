@@ -2277,7 +2277,7 @@
     (pin "1" (uuid c7cfd1af-fc60-40db-9658-2c6d3296eaf3))
     (pin "2" (uuid 79b6757d-0065-4230-9acd-d6bbb8be8678))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R12") (unit 1)
         )
@@ -2309,7 +2309,7 @@
     (pin "1" (uuid 4040181c-57d5-4260-a8e4-968c129e7905))
     (pin "2" (uuid a3c2d003-5aed-458a-8d00-7d7bdd12cf01))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C2") (unit 1)
         )
@@ -2334,7 +2334,7 @@
     )
     (pin "1" (uuid 04e178a4-dc23-478c-a19a-404c3e1e475c))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR09") (unit 1)
         )
@@ -2359,7 +2359,7 @@
     )
     (pin "1" (uuid 4a243a2c-8c14-4ffc-bf9a-bb14f42b96eb))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR013") (unit 1)
         )
@@ -2384,7 +2384,7 @@
     )
     (pin "1" (uuid dfbc7f46-a93c-46e9-8362-a3f4dc008506))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR020") (unit 1)
         )
@@ -2416,7 +2416,7 @@
     (pin "1" (uuid 32941910-43d8-4d3f-b666-165789ee961f))
     (pin "2" (uuid 964f7144-da67-48a1-abc2-85bd897b2cd3))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "D3") (unit 1)
         )
@@ -2448,7 +2448,7 @@
     (pin "1" (uuid 1c8b6fcf-4158-4f6a-8c7f-a3f82046d420))
     (pin "2" (uuid 1eef9be1-90a8-4a80-96c9-d2fc77176f33))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C1") (unit 1)
         )
@@ -2473,7 +2473,7 @@
     )
     (pin "1" (uuid 4ca63dcc-3a4a-45e9-a2de-6c877e7ae64b))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR017") (unit 1)
         )
@@ -2505,7 +2505,7 @@
     (pin "1" (uuid e6e874ed-d801-45de-97fb-41665b711a9e))
     (pin "2" (uuid cc7613f6-3e8b-4dea-9d94-6fac2b90526f))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C5") (unit 1)
         )
@@ -2530,7 +2530,7 @@
     )
     (pin "1" (uuid e590ba7c-36c8-44e7-ab0d-5ae2af0e6fa6))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR021") (unit 1)
         )
@@ -2562,7 +2562,7 @@
     (pin "1" (uuid 49f6e6de-bdea-4f66-a757-8809c6611d8d))
     (pin "2" (uuid a086457d-a0e0-45ff-a5dc-24b4dc539fae))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R9") (unit 1)
         )
@@ -2587,7 +2587,7 @@
     )
     (pin "1" (uuid 7e351054-fbe3-451e-8fac-ecfd530ce95e))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR019") (unit 1)
         )
@@ -2619,7 +2619,7 @@
     (pin "1" (uuid ce67a153-8c3a-46eb-a805-c6893c52c22f))
     (pin "2" (uuid edde58fc-abb7-4eb1-bd62-6cdf7bd54970))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R7") (unit 1)
         )
@@ -2651,7 +2651,7 @@
     (pin "1" (uuid e6cc8a1b-2eb6-4b97-abf1-0c0fe67a6fb1))
     (pin "2" (uuid f057f476-082d-471d-8cd4-24e1a3f92421))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R2") (unit 1)
         )
@@ -2676,7 +2676,7 @@
     )
     (pin "1" (uuid 0d65c503-4a7c-4ef7-b6ed-09f9b5f72948))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR024") (unit 1)
         )
@@ -2722,7 +2722,7 @@
     (pin "S3" (uuid 95326472-15d3-462b-b149-ca4bbe6e2c79))
     (pin "S4" (uuid 567548e0-3db7-4481-84bb-0e4d2eabdd78))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "J2") (unit 1)
         )
@@ -2754,7 +2754,7 @@
     (pin "1" (uuid e5f2f2d0-ab42-4f65-9008-2feb327f9d7e))
     (pin "2" (uuid f5bb5c69-0ba0-4f1e-9cbd-eb3632ffa495))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C8") (unit 1)
         )
@@ -2780,7 +2780,7 @@
     (pin "1" (uuid ca2b88f4-b4af-4650-94cd-c1d1baf54488))
     (pin "2" (uuid 0a2147db-541b-4030-8f8b-c1353d51a16b))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C10") (unit 1)
         )
@@ -2805,7 +2805,7 @@
     )
     (pin "1" (uuid b73f0393-11de-4b11-9443-68bebe35c534))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR04") (unit 1)
         )
@@ -2837,7 +2837,7 @@
     (pin "1" (uuid 049ba18b-afae-4543-a055-37fc9be5e360))
     (pin "2" (uuid e1d899fb-9c42-458b-bdbc-30904a6e429b))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R14") (unit 1)
         )
@@ -2862,7 +2862,7 @@
     )
     (pin "1" (uuid b1dbb397-c186-4179-960f-5d795e47940b))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR030") (unit 1)
         )
@@ -2894,7 +2894,7 @@
     (pin "1" (uuid 9c7dd0eb-d976-4c5a-9e86-a89ed4d4e19f))
     (pin "2" (uuid bfe49af8-df1a-4ee8-98f9-5676e85c6f4a))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C3") (unit 1)
         )
@@ -2928,7 +2928,7 @@
     (pin "3" (uuid 6e486075-0322-44c1-b888-b49af8bb9546))
     (pin "4" (uuid ab663bb2-3717-46b4-a4e6-f6121afb31c5))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "D4") (unit 1)
         )
@@ -2964,7 +2964,7 @@
     (pin "5" (uuid 5491a4f7-1702-4850-a632-86f22f732ca3))
     (pin "6" (uuid bebae3b2-2455-43fb-b21b-44efbcb0e9a3))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "D1") (unit 1)
         )
@@ -2998,7 +2998,7 @@
     (pin "3" (uuid 23f5a757-d7f4-4921-af81-1d607bddb888))
     (pin "4" (uuid 987a614d-a600-40d6-bffb-bf263a92f27b))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "SW1") (unit 1)
         )
@@ -3023,7 +3023,7 @@
     )
     (pin "1" (uuid 41b8b152-6956-4b52-b08c-72c4c718d184))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR011") (unit 1)
         )
@@ -3057,7 +3057,7 @@
     (pin "3" (uuid 9e805fad-f4b1-49ab-ac20-837053e27a34))
     (pin "4" (uuid dcd36541-bdd7-4040-ada5-5492f8d45436))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "U2") (unit 1)
         )
@@ -3082,7 +3082,7 @@
     )
     (pin "1" (uuid 29499aba-c538-44f7-b15e-e6ee6b1b818e))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR028") (unit 1)
         )
@@ -3107,7 +3107,7 @@
     )
     (pin "1" (uuid 2f168ddb-4c8f-4c49-acf0-b9567982b8cb))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR05") (unit 1)
         )
@@ -3139,7 +3139,7 @@
     (pin "1" (uuid 53113bb0-e481-46c0-a165-13674dd4e6d5))
     (pin "2" (uuid f7fac0f4-7e24-46b8-89d6-76813d78516c))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R1") (unit 1)
         )
@@ -3164,7 +3164,7 @@
     )
     (pin "1" (uuid 94a1ec11-ede0-4d99-81e0-1504c74a871f))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR022") (unit 1)
         )
@@ -3197,7 +3197,7 @@
     (pin "2" (uuid e515cd6b-a2c6-4451-b572-31d1b80a12b0))
     (pin "3" (uuid b106d574-bc6e-4af1-9269-fe350c547a27))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "U3") (unit 1)
         )
@@ -3229,7 +3229,7 @@
     (pin "1" (uuid deb23956-7f9e-4543-b57e-15ffc6137787))
     (pin "2" (uuid 19d0a297-be14-4d76-8817-bc8780ff9151))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R3") (unit 1)
         )
@@ -3254,7 +3254,7 @@
     )
     (pin "1" (uuid af1af740-fad4-4a4a-af47-d555fe924be5))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR026") (unit 1)
         )
@@ -3286,7 +3286,7 @@
     (pin "1" (uuid c0c648c2-7f52-4278-accc-031439f34c45))
     (pin "2" (uuid 2a54a323-c52b-4d3d-a87d-7fdc9f5c8567))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R6") (unit 1)
         )
@@ -3311,7 +3311,7 @@
     )
     (pin "1" (uuid 240bab47-6543-4470-8848-08fdf78f83e2))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR031") (unit 1)
         )
@@ -3343,7 +3343,7 @@
     (pin "1" (uuid 72ba3f7f-a70d-4878-850e-c2a62a0ed391))
     (pin "2" (uuid 6c282cf9-da66-436c-8560-30efb916e521))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C7") (unit 1)
         )
@@ -3375,7 +3375,7 @@
     (pin "1" (uuid dd26ece6-aaef-451c-b530-a5c385561a53))
     (pin "2" (uuid ba490bea-74f2-46a6-a2b8-d6fd706f4ea0))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R4") (unit 1)
         )
@@ -3409,7 +3409,7 @@
     (pin "3" (uuid ff072d46-8ef9-4c5c-a766-1d77b8f8ecd6))
     (pin "4" (uuid db561e7f-a154-40ee-b7c0-429ccb05c5af))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "SW2") (unit 1)
         )
@@ -3434,7 +3434,7 @@
     )
     (pin "1" (uuid eff83dff-dc63-4152-95ad-3ed48e4dbbf6))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR032") (unit 1)
         )
@@ -3459,7 +3459,7 @@
     )
     (pin "1" (uuid b6cd6ec4-1e6b-42b3-a29b-d4f3a4a0f474))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR03") (unit 1)
         )
@@ -3491,7 +3491,7 @@
     (pin "1" (uuid 9feb6579-e65b-45b3-8ace-78606a5c6dbc))
     (pin "2" (uuid 97ed9828-72ad-4a4f-93c7-454582142604))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "D5") (unit 1)
         )
@@ -3516,7 +3516,7 @@
     )
     (pin "1" (uuid 9272266a-259e-4ef7-9cdc-b5a64e90834e))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR016") (unit 1)
         )
@@ -3548,7 +3548,7 @@
     (pin "1" (uuid 7ec46c5e-0d82-4f3c-88fb-ec88ad943383))
     (pin "2" (uuid 6c2e5154-73b6-4a54-b86b-a294a51b58ea))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R5") (unit 1)
         )
@@ -3573,7 +3573,7 @@
     )
     (pin "1" (uuid ef1397f1-993c-4aa0-81af-d3b2f23e8318))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR014") (unit 1)
         )
@@ -3598,7 +3598,7 @@
     )
     (pin "1" (uuid 0fa46079-9c59-4bd1-afdc-95f19dc68fbd))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR01") (unit 1)
         )
@@ -3623,7 +3623,7 @@
     )
     (pin "1" (uuid 45db070e-f049-477a-9bbb-4bee4d865804))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR07") (unit 1)
         )
@@ -3648,7 +3648,7 @@
     )
     (pin "1" (uuid ca68ba31-ef6c-40af-9685-1afc5591b937))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR08") (unit 1)
         )
@@ -3680,7 +3680,7 @@
     (pin "1" (uuid d271b1e6-a1f9-4726-82d1-491d06129f78))
     (pin "2" (uuid d7856d01-af9e-4bb3-894a-3e30bde7cbc4))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C9") (unit 1)
         )
@@ -3705,7 +3705,7 @@
     )
     (pin "1" (uuid 91b5677c-c49a-4daa-ae19-cb52ebcc7c67))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR010") (unit 1)
         )
@@ -3737,7 +3737,7 @@
     (pin "1" (uuid a37757b5-44bd-4c4a-b6ff-5ce7185dfc4a))
     (pin "2" (uuid c0f22a11-0bea-410a-ba64-94f2b4b52670))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C12") (unit 1)
         )
@@ -3769,7 +3769,7 @@
     (pin "1" (uuid e928b8a4-1417-484a-9e4f-57375c7d7357))
     (pin "2" (uuid 9433aaca-1cb2-49aa-be14-260c79d093a2))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R15") (unit 1)
         )
@@ -3801,7 +3801,7 @@
     (pin "1" (uuid a701205a-0928-426e-a709-c4ece145aa35))
     (pin "2" (uuid 220d10b4-e507-4b31-9563-ae0e182255b9))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "D2") (unit 1)
         )
@@ -3826,7 +3826,7 @@
     )
     (pin "1" (uuid 31e820de-f99f-439a-a442-18185307aa60))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR023") (unit 1)
         )
@@ -3851,7 +3851,7 @@
     )
     (pin "1" (uuid 48c32031-aed6-44f4-88c0-f8f7db4dd394))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR025") (unit 1)
         )
@@ -3876,7 +3876,7 @@
     )
     (pin "1" (uuid ce966522-7a88-4a1f-a8d6-f7ae1f174cf2))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR06") (unit 1)
         )
@@ -3901,7 +3901,7 @@
     )
     (pin "1" (uuid ac302a64-beee-4489-956e-5d92f31b369b))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR012") (unit 1)
         )
@@ -3933,7 +3933,7 @@
     (pin "1" (uuid 6592115f-a70b-458c-8010-0745e5ef5e34))
     (pin "2" (uuid 0d87a226-9323-4712-ac39-b6073042c41a))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "L1") (unit 1)
         )
@@ -3965,7 +3965,7 @@
     (pin "1" (uuid e09d81a6-7f39-4864-82c7-7ba6745d0f7d))
     (pin "2" (uuid 4b3fb8b0-6e63-467b-967e-4f0c0d48799b))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R8") (unit 1)
         )
@@ -3990,7 +3990,7 @@
     )
     (pin "1" (uuid 246abcb2-38dd-447b-af68-24ea0ca39060))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR02") (unit 1)
         )
@@ -4015,7 +4015,7 @@
     )
     (pin "1" (uuid 46036ed8-fbaa-4efa-b25a-56fc1d236138))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR033") (unit 1)
         )
@@ -4049,7 +4049,7 @@
     (pin "3" (uuid 7da7b8ab-37c1-443b-8ef4-fb6dc8dda56d))
     (pin "4" (uuid d7109955-6cc2-4ecf-8181-b3a023de29e8))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "U1") (unit 1)
         )
@@ -4081,7 +4081,7 @@
     (pin "1" (uuid e2a9c588-4189-4f11-8672-3afb54fd952e))
     (pin "2" (uuid 7fe1af7e-2697-4b62-b857-7186554d00ee))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R10") (unit 1)
         )
@@ -4113,7 +4113,7 @@
     (pin "1" (uuid b8f0e1da-d7b7-46e3-bb98-77fdaff8a4a5))
     (pin "2" (uuid 9f07a4a0-dc44-48e6-ac0b-898be6b59135))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R13") (unit 1)
         )
@@ -4170,7 +4170,7 @@
     (pin "8" (uuid c7cda444-c8ad-472c-9469-39dfed5a6ca7))
     (pin "9" (uuid 3922ef82-71db-4eb6-953f-16682af30827))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "U4") (unit 1)
         )
@@ -4206,7 +4206,7 @@
     (pin "5" (uuid bf5d71c2-09f5-4b68-9531-b30e1d8d3de8))
     (pin "6" (uuid ff21cf3c-c8fc-41db-9603-5f8037e68b95))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "J1") (unit 1)
         )
@@ -4238,7 +4238,7 @@
     (pin "1" (uuid fba77d0b-e2a4-441e-9fd2-21d097db5b00))
     (pin "2" (uuid 44fa369e-a0f8-4fbd-98df-107fae3a2dad))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "R11") (unit 1)
         )
@@ -4270,7 +4270,7 @@
     (pin "1" (uuid 71cb805a-3105-4bcc-8404-72b30d4f405e))
     (pin "2" (uuid 9b5182f5-fec1-47db-8b61-cf15b4aa4341))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C4") (unit 1)
         )
@@ -4295,7 +4295,7 @@
     )
     (pin "1" (uuid 24ac854e-cbcb-45a3-83ba-2f459353afb3))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR018") (unit 1)
         )
@@ -4320,7 +4320,7 @@
     )
     (pin "1" (uuid e88b381a-1033-4d66-8f51-53913fb944bc))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR027") (unit 1)
         )
@@ -4346,7 +4346,7 @@
     (pin "1" (uuid c9466632-a7cb-47be-aa90-7bb06db1a11a))
     (pin "2" (uuid 862f048e-7172-44e9-b488-82a93faff00b))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C11") (unit 1)
         )
@@ -4371,7 +4371,7 @@
     )
     (pin "1" (uuid 075bc805-b225-4af6-92bf-4fe0116c69f6))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR029") (unit 1)
         )
@@ -4396,7 +4396,7 @@
     )
     (pin "1" (uuid 218ae126-f998-467f-92ae-049d200c2317))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "#PWR015") (unit 1)
         )
@@ -4428,7 +4428,7 @@
     (pin "1" (uuid 41d369b1-a184-4529-ac82-793fb09e0ab4))
     (pin "2" (uuid d7007bef-ba86-462b-988e-944024941475))
     (instances
-      (project "sp1_communicator"
+      (project "p1_wireless_indicator"
         (path "/d9bd008b-84e8-4d0b-9177-df1b9a254894"
           (reference "C6") (unit 1)
         )
