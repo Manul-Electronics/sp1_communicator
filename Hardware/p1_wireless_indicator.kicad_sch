@@ -7,7 +7,7 @@
   (title_block
     (title "P1 Wireless Interface")
     (date "2024-03-17")
-    (rev "1.0.0")
+    (rev "1.1.0")
     (company "Manul Technologies")
   )
 
@@ -3918,7 +3918,7 @@
     (property "Value" "1uH" (at 45.72 174.625 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_Wuerth_WE-PD2-Typ-MS" (at 45.72 177.165 0)
+    (property "Footprint" "manul_tech:7447730" (at 45.72 177.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 45.72 177.165 0)
