@@ -1,0 +1,75 @@
+p1_wireless_interface:
+  uart:
+    pin: GPIO6
+    baud_rate: 115200
+    rx_buffer_size: 1700
+    data_bits: 8
+    parity: NONE
+    stop_bits: 1
+  
+  dsmr: 
+    max_telegram_length: 1700
+    request_pin: GPIO5
+    request_interval: 1440ms
+
+  sensor:
+    - platform: dsmr
+      energy_delivered_tariff1:
+        name: Tarif de consommation 1
+      energy_delivered_tariff2:
+        name: Tarif de consommation 2
+      energy_returned_tariff1:
+        name: Montant de la production 1
+      energy_returned_tariff2:
+        name : Montant de la production 2
+      power_delivered:
+        name: Puissance fournie
+      power_returned:
+        name: Puissance restituée
+      electricity_failures:
+        name: Coupure d'électricité
+      electricity_long_failures:
+        name: Longue Coupure d'électricité
+      electricity_sags_l1:
+        name: Chute de tension phase L1
+      electricity_sags_l2:
+        name: Chute de tension phase L2
+      electricity_sags_l3:
+        name: Chute de tension phase L3
+      electricity_swells_l1:
+        name: Surtension phase L1
+      electricity_swells_l2:
+        name: Surtension phase L2
+      electricity_swells_l3:
+        name: Surtension phase L3
+      voltage_l1:
+        name: Tension phase L1
+      voltage_l2:
+        name: Tension phase L2
+      voltage_l3:
+        name: Tension phase L3
+      current_l1:
+        name: Courant phase L1
+      current_l2:
+        name: Courant phase L2
+      current_l3:
+        name: Courant phase L3
+      power_delivered_l1:
+        name: Puissance consommée L1
+      power_delivered_l2:
+        name: Puissance consommée L2
+      power_delivered_l3:
+        name: Puissance consommée L3
+      power_returned_l1:
+        name: Puissance restituée L1
+      power_returned_l2:
+        name: Puissance restituée L2
+      power_returned_l3:
+        name: Puissance restituée L3
+
+  text_sensor:
+    - platform: dsmr
+      identification:
+        name: "DSMR Identification"
+      p1_version_be:
+        name: "DSMR Version"
