@@ -1,4 +1,4 @@
-21865272864841370
+21865275419396033
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90335,6 +90335,13 @@ manul_tech
 16
 16
 manul_tech
+140357145100
+SOP, 4 Pin (http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+4
+4
+manul_tech
 643250100308
 
 
@@ -90726,13 +90733,6 @@ SOIC127P599X175-8N
 0
 8
 8
-manul_tech
-SOP-4_3.8x4.1mm_P2.54mm
-SOP, 4 Pin (http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOP SO
-0
-4
-4
 manul_tech
 SOP65P640X120-20N
 
